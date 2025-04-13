@@ -1,5 +1,5 @@
 # terminatorglasses
-DIY project for eye tracked terminator sunglasses. This project captures real-time video from a webcam, processes it to identify the darkest region of the eye (typically the pupil), and visualizes the detected ellipse on a 128x128 RGB OLED display (SSD1351). The output ellipse is stabilized using median filtering and displayed with configurable positioning and scaling.
+DIY project for eye tracked terminator sunglasses. This project captures real-time video from a webcam, processes it to identify the darkest region of the eye (typically the pupil), and visualizes the detected ellipse on a 128x128 RGB OLED display (SSD1351). The output ellipse is stabilized using median filtering and displayed with configurable positioning and scaling. A video tutorial can be found here: https://youtu.be/xjmwgky0e2Q.
 
 To help support this software and other open-source projects, please consider subscribing to my YouTube channel: https://www.youtube.com/@jeoresearch
 
