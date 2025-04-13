@@ -27,6 +27,7 @@ To help support this software and other open-source projects, please consider su
 - USB extension cables ($10): https://amzn.to/43SznVl
 - Raspberry Pi 4B ($60): https://amzn.to/3YlQnzV
 - RBG OLED Panel ($24): https://amzn.to/3ElpkxC
+- Pi cable set ($6): https://amzn.to/43TeSYC
 
 Affiliate links on this page help support the channel at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases. All earnings support the development of open-source software and projects like this! 
 
